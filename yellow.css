@@ -1,0 +1,31 @@
+#yellow section {
+    background-color: #fee227;
+    height: 700px;
+    width: 500px;
+}
+
+
+#yellow div{
+  height: 100%;
+  width: calc(33%);
+}
+
+#yellow div:first-child {
+    float: left;
+}
+
+
+#yellow div:last-child{
+    float: right;
+}
+
+#yellow div:first-child,
+#yellow div:last-child {
+	background-color: green;
+}
+
+
+#yellow div:last-child,
+#yellow  div:first-child {
+	background-color: green;
+}

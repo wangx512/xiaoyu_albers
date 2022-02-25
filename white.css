@@ -1,0 +1,28 @@
+#white section {
+    background-color: #white;
+    height: 500px;
+    width: 900px;
+}
+
+#white div{
+    height: 100%;
+    width: calc(33%);
+}
+
+#white div:first-child {
+    float: left;
+}
+
+#white div:last-child{
+    float: right;
+}
+
+#white div:first-child {
+    border-right-style: solid;
+    border-width: thin;
+}
+
+#white div:last-child {
+    border-left-style: solid;
+    border-width: thin;
+}
