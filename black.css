@@ -1,17 +1,17 @@
 #black section {
     background-color: black;
-    height: 600px;
+    height: 630px;
     width: 500px;
 }
 
 #green1 {
     background: darkgreen;
-    width: 65%;
-    height: 65%;
+    width: 70%;
+    height: 63%;
 }
 
 #green2 {
     background: darkgreen;
-    margin-top: 20%;
-    padding-bottom: 25%;
+    margin-top: 26%;
+    padding-bottom: 21%;
 }
